@@ -17,3 +17,4 @@ wget https://github.com/pikanaeri/Extracting-3Di-Embeddings-from-Protein-Sequenc
 ```
 
 - Test commands, and add commands that download Huggingface and Pip (so far, micro and medium computers are unable to support the above commands as the computers run out of storage)
+- Total repo size is 55.7 MB so far
