@@ -1,5 +1,6 @@
 #Family Embedding Function
 #Pass in the fasta file name, will write the resulting averaged embedding to a .pkl file
+#Remove any spaces in between lines before copy/pasting it into Python (following cleaner code without comments is in the file family_embed2.py)
 
 import pickle as pkl
 
