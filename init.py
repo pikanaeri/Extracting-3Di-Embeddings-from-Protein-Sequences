@@ -4,7 +4,6 @@ import torch
 import re
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 print("Using device: {}".format(device))
-
 #Load encoder-part of ProstT5 in half-precision. { display-mode: "form" }
 #May take a few minutes; run on high RAM to ensure that the runtime does not crash (~5-10 minutes)
 transformer_link = "Rostlab/ProstT5"
